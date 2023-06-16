@@ -1,0 +1,1 @@
+@tailwind base;@tailwind components;@tailwind utilities;body{background-color:#fbfbfb}.title-price p{background-color:#ffbd33}.the-header:before{width:70%;left:20px;background-color:#ffb30e;height:4px;content:"";position:absolute;bottom:0}.the-btns{padding:5px 15px;background-color:#f6ac0c;border-radius:6px;margin-right:15px}
