@@ -8,7 +8,7 @@ function NavBar() {
        <div>
        <TopItem menu={menu} setMenu={setMenu}/>
        </div>
-       <div className="w-54 grid grid-cols-3 gap-8 max-md:grid-cols-none ">
+       <div className="w-54 grid grid-cols-3 gap-8 max-sm:grid-cols-none">
         {
           menu.map((menus) => {
             const {title, category, price, img, desc, id} = menus
